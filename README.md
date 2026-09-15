@@ -106,7 +106,7 @@ Soluções sob medida para quem precisa construir sua presença digital, lançar
 | Projeto | O que desenvolvi | Apresentação |
 | :--- | :--- | :--- |
 | **Certfik · Plataforma SaaS** | Plataforma para criação, emissão, validação e gestão de certificados digitais, com treinamentos, provas e gerenciamento de usuários. | [Ver estudo de caso →](https://github.com/TheussBc/certfik-case-study) |
-| **Fabíola Alves · Landing page** | Site profissional para uma psicóloga, desenvolvido com Next.js, design responsivo e animações acessíveis. | [Ver estudo de caso →](https://github.com/TheussBc/fabiola-landing-page-case-study) |
+| **Fabiola Alves · Landing page** | Site profissional para uma psicóloga, desenvolvido com Next.js, design responsivo e animações acessíveis. | [Ver estudo de caso →](https://github.com/TheussBc/fabiola-landing-page-case-study) |
 | **ESAUT Gestão · Sistema corporativo** | Plataforma integrada para gestão de processos internos, documentos, treinamentos, avisos, veículos e atividades operacionais. | Projeto corporativo · Código privado |
 | **ESAUT · Site institucional** | Site institucional para apresentar a empresa, seus serviços e suas soluções em automação. | Projeto corporativo · Código privado |
 
