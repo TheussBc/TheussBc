@@ -98,16 +98,17 @@ Soluções sob medida para quem precisa construir sua presença digital, lançar
   </tr>
 </table>
 
-<details>
-  <summary><strong>Explorar projetos públicos e estudos</strong></summary>
+<details open>
+  <summary><strong>Explorar meus principais projetos</strong></summary>
 
 <br>
 
-| Projeto | Sobre |
-| :--- | :--- |
-| [Discord Bot em Python](https://github.com/TheussBc/discord-py) | Bot para Discord desenvolvido utilizando Python. |
-| [Cadastro de jogos com Flask](https://github.com/TheussBc/flask-games-register) | Aplicação web criada durante meus estudos de desenvolvimento com Flask. |
-| [Data Analysis and Machine Learning Hackathon](https://github.com/TheussBc/Data-Analysis-and-Machine-Learning-Hackathon) | Projeto envolvendo análise de dados e fundamentos de machine learning. |
+| Projeto | O que desenvolvi | Apresentação |
+| :--- | :--- | :--- |
+| **Certfik · Plataforma SaaS** | Plataforma para criação, emissão, validação e gestão de certificados digitais, com treinamentos, provas e gerenciamento de usuários. | [Ver estudo de caso →](https://github.com/TheussBc/certfik-case-study) |
+| **Fabíola Alves · Landing page** | Site profissional para uma psicóloga, desenvolvido com Next.js, design responsivo e animações acessíveis. | [Ver estudo de caso →](https://github.com/TheussBc/fabiola-landing-page-case-study) |
+| **ESAUT Gestão · Sistema corporativo** | Plataforma integrada para gestão de processos internos, documentos, treinamentos, avisos, veículos e atividades operacionais. | Projeto corporativo · Código privado |
+| **ESAUT · Site institucional** | Site institucional para apresentar a empresa, seus serviços e suas soluções em automação. | Projeto corporativo · Código privado |
 
 </details>
 
