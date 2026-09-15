@@ -1,115 +1,191 @@
+<!-- Perfil GitHub: TheussBc | Contato: LinkedIn -->
+
 <div align="center">
 
-# Olá, eu sou Matheus Pires Beceveli 👋
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:163B66&height=190&section=header&text=Matheus%20Pires%20Beceveli&fontSize=38&fontColor=F8FAFC&fontAlignY=42&desc=Sites%20profissionais%20%20%C2%B7%20%20Sistemas%20sob%20medida%20%20%C2%B7%20%20Automa%C3%A7%C3%B5es&descSize=17&descAlignY=66" alt="Matheus Pires Beceveli — Sites profissionais, sistemas sob medida e automações" />
 
-### Analista de Desenvolvimento de Sistemas  
-### Estudante de Ciência da Computação
+  <br><br>
 
-Desenvolvo soluções web, automações e sistemas corporativos com foco em transformar processos manuais em produtos digitais eficientes.
+  <h2>Sites profissionais. Soluções sob medida.</h2>
+
+  <p>
+    Desenvolvo <strong>sites para pessoas e empresas</strong>,<br>
+    além de sistemas web, APIs e automações que simplificam processos.
+  </p>
+
+  <p>
+    <sub>Analista de Desenvolvimento de Sistemas · Graduando em Ciência da Computação · Criador do Certfik</sub>
+  </p>
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/matheus-beceveli/">
+    <img src="https://img.shields.io/badge/Vamos%20conversar-2563EB?style=for-the-badge" alt="Vamos conversar sobre seu projeto pelo LinkedIn" />
+  </a>
+  <a href="https://github.com/TheussBc?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar%20reposit%C3%B3rios-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus repositórios públicos no GitHub" />
+  </a>
+
+  <br><br>
+
+  <a href="#o-que-desenvolvo">Soluções</a> &nbsp;·&nbsp;
+  <a href="#projetos-em-destaque">Projetos</a> &nbsp;·&nbsp;
+  <a href="#tecnologias">Tecnologias</a> &nbsp;·&nbsp;
+  <a href="#vamos-conversar">Contato</a>
+
+</div>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Beceveli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-beceveli/)
-[![GitHub](https://img.shields.io/badge/GitHub-TheussBc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheussBc)
+## O que desenvolvo
 
-</div>
+Soluções sob medida para quem precisa construir sua presença digital, lançar uma ideia ou tornar a operação mais eficiente.
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Sites profissionais</h3>
+      <p>Sites institucionais, portfólios e páginas para profissionais autônomos e empresas, com visual alinhado à sua identidade.</p>
+      <p><sub>Presença digital · Design responsivo · Clareza na comunicação</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Landing pages</h3>
+      <p>Páginas para apresentar serviços, divulgar produtos e apoiar campanhas, com uma jornada clara até o contato.</p>
+      <p><sub>Apresentação de serviços · Campanhas · Captação de contatos</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Sistemas web</h3>
+      <p>Aplicações sob medida para organizar informações, centralizar rotinas e apoiar a gestão de negócios.</p>
+      <p><sub>Sistemas corporativos · Plataformas SaaS · Painéis de gestão</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · Automações e APIs</h3>
+      <p>Integração entre ferramentas e automação de tarefas repetitivas para reduzir trabalho manual e simplificar processos.</p>
+      <p><sub>Python · APIs REST · Planilhas · Integrações</sub></p>
+    </td>
+  </tr>
+</table>
 
-## 👨‍💻 Sobre mim
+<br>
 
-- 💼 Analista de Desenvolvimento de Sistemas.
-- 🎓 Graduando em Ciência da Computação.
-- 🧠 Focado em desenvolvimento web, APIs e automação de processos.
-- 🏢 Desenvolvendo soluções digitais e sistemas corporativos para a ESAUT.
-- 🚀 Criador do Certfik, uma plataforma de emissão e gestão de certificados.
-- ⚙️ Experiência com automações utilizando Python, Excel e sistemas corporativos.
-- 📚 Atualmente aprimorando meus conhecimentos em arquitetura de software, segurança e banco de dados.
+## Projetos em destaque
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Certfik</h3>
+      <p><strong>Emissão e gestão de certificados.</strong></p>
+      <p>Plataforma SaaS para criação, emissão, validação e gerenciamento de certificados digitais, treinamentos, provas e usuários.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
+      <p><sub>Produto próprio · Armazenamento em nuvem</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ESAUT Gestão</h3>
+      <p><strong>Processos corporativos em um só lugar.</strong></p>
+      <p>Plataforma integrada para gerenciamento de processos internos, treinamentos, documentos, avisos, veículos e atividades operacionais.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Python</code> <code>APIs REST</code></p>
+      <p><sub>Sistema corporativo · Banco de dados · Gestão operacional</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Automações corporativas</h3>
+      <p>Ferramentas para geração de certificados, processamento de planilhas, interação com Outlook, controle de estoque e execução de rotinas em sistemas corporativos.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>OpenPyXL</code> <code>FastAPI</code> <code>Automação de interfaces</code></p>
+    </td>
+  </tr>
+</table>
 
-## 🧰 Tecnologias e ferramentas
+<details>
+  <summary><strong>Explorar projetos públicos e estudos</strong></summary>
 
-<div align="center">
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| Projeto | Sobre |
+| :--- | :--- |
+| [Discord Bot em Python](https://github.com/TheussBc/discord-py) | Bot para Discord desenvolvido utilizando Python. |
+| [Cadastro de jogos com Flask](https://github.com/TheussBc/flask-games-register) | Aplicação web criada durante meus estudos de desenvolvimento com Flask. |
+| [Data Analysis and Machine Learning Hackathon](https://github.com/TheussBc/Data-Analysis-and-Machine-Learning-Hackathon) | Projeto envolvendo análise de dados e fundamentos de machine learning. |
 
-</div>
+</details>
 
----
+<br>
 
-## 🚀 Projetos e soluções
+## Sobre mim
 
-### Certfik
+Sou **Matheus Pires Beceveli**, Analista de Desenvolvimento de Sistemas e graduando em Ciência da Computação. Desenvolvo soluções digitais e sistemas corporativos para a **ESAUT** e sou o criador do **Certfik**.
 
-Plataforma SaaS para criação, emissão, validação e gerenciamento de certificados digitais, treinamentos, provas e usuários.
+Meu trabalho conecta **desenvolvimento web, back-end, APIs e automação de processos**. Crio sites para pessoas e empresas e ferramentas para transformar rotinas manuais em soluções digitais mais eficientes.
 
-**Tecnologias:** Next.js, TypeScript, FastAPI, PostgreSQL e armazenamento em nuvem.
+Tenho experiência com **Python, Excel e integrações com sistemas corporativos**. Atualmente, aprofundo meus conhecimentos em arquitetura de software, segurança e banco de dados. Também exploro Internet das Coisas e projetos com ESP32.
 
-### ESAUT Gestão
+<br>
 
-Plataforma corporativa integrada para gerenciamento de processos internos, treinamentos, documentos, avisos, veículos e atividades operacionais.
-
-**Tecnologias:** Next.js, TypeScript, Python, APIs REST e banco de dados.
-
-### Automações corporativas
-
-Desenvolvimento de automações para geração de certificados, processamento de planilhas, interação com Outlook, controle de estoque e execução de processos em sistemas corporativos.
-
-**Tecnologias:** Python, Pandas, OpenPyXL, FastAPI e automação de interfaces.
-
----
-
-## 📌 Projetos públicos
-
-- [Discord Bot em Python](https://github.com/TheussBc/discord-py)  
-  Bot para Discord desenvolvido utilizando Python.
-
-- [Cadastro de jogos com Flask](https://github.com/TheussBc/flask-games-register)  
-  Aplicação web criada durante meus estudos de desenvolvimento com Flask.
-
-- [Data Analysis and Machine Learning Hackathon](https://github.com/TheussBc/Data-Analysis-and-Machine-Learning-Hackathon)  
-  Projeto envolvendo análise de dados e fundamentos de machine learning.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=TheussBc&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheussBc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🎯 Áreas de interesse
-
-- Desenvolvimento de sistemas corporativos
-- Desenvolvimento back-end e APIs
-- Aplicações web modernas
-- Automação de processos
-- Arquitetura e segurança de software
-- Integrações entre sistemas
-- Internet das Coisas e ESP32
-
----
+## Tecnologias
 
 <div align="center">
 
-### Transformando processos em soluções digitais.
+  <h4>Interfaces e aplicações web</h4>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts&theme=dark" height="46" alt="Next.js, React e TypeScript" />
+  <p><sub>Next.js · React · TypeScript</sub></p>
+
+  <h4>Back-end e APIs</h4>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask&theme=dark" height="46" alt="Python, FastAPI e Flask" />
+  <p><sub>Python · FastAPI · Flask</sub></p>
+
+  <h4>Dados e ferramentas</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,vscode&theme=dark" height="46" alt="PostgreSQL, SQLite, Docker, Git, GitHub e Visual Studio Code" />
+  <p><sub>PostgreSQL · SQLite · Docker · Git · GitHub · VS Code</sub></p>
+
+</div>
+
+<br>
+
+## Atividade no GitHub
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TheussBc&show_icons=true&hide_rank=true&card_width=400&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=60A5FA&border_color=263345&border_radius=14&locale=pt-br&custom_title=GitHub%20em%20n%C3%BAmeros&disable_animations=true" />
+    <img height="195" align="center" src="https://github-stats-extended.vercel.app/api?username=TheussBc&show_icons=true&hide_rank=true&card_width=400&bg_color=F6F8FA&title_color=2563EB&text_color=334155&icon_color=2563EB&border_color=E2E8F0&border_radius=14&locale=pt-br&custom_title=GitHub%20em%20n%C3%BAmeros&disable_animations=true" alt="Estatísticas públicas de Matheus no GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TheussBc&layout=donut&langs_count=6&card_width=360&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&border_color=263345&border_radius=14&locale=pt-br&custom_title=Linguagens%20mais%20usadas&disable_animations=true" />
+    <img height="195" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheussBc&layout=donut&langs_count=6&card_width=360&bg_color=F6F8FA&title_color=2563EB&text_color=334155&border_color=E2E8F0&border_radius=14&locale=pt-br&custom_title=Linguagens%20mais%20usadas&disable_animations=true" alt="Gráfico de rosca com as linguagens dos meus repositórios públicos" />
+  </picture>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TheussBc&bg_color=0D1117&color=C9D1D9&title_color=60A5FA&line=60A5FA&point=93C5FD&area_color=3B82F6&area=true&hide_border=true&radius=14&height=280&days=31&grid=false&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheussBc&bg_color=F6F8FA&color=334155&title_color=2563EB&line=2563EB&point=1D4ED8&area_color=93C5FD&area=true&hide_border=true&radius=14&height=280&days=31&grid=false&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico da atividade de Matheus no GitHub nos últimos 31 dias" />
+  </picture>
+
+  <p><sub>Os indicadores exibem dados disponíveis publicamente. A distribuição de linguagens não representa nível de domínio.</sub></p>
+
+</div>
+
+<br>
+
+## Vamos conversar
+
+<div align="center">
+
+  <h3>Precisa de um site ou de uma solução para seu negócio?</h3>
+
+  <p>
+    Desenvolvo <strong>sites profissionais, landing pages, sistemas web e automações</strong><br>
+    para pessoas e empresas que querem transformar ideias em projetos reais.
+  </p>
+
+  <a href="https://www.linkedin.com/in/matheus-beceveli/">
+    <img src="https://img.shields.io/badge/Converse%20comigo%20no%20LinkedIn-2563EB?style=for-the-badge" alt="Converse comigo no LinkedIn sobre seu projeto" />
+  </a>
+
+  <br><br>
+
+  <sub>Matheus Pires Beceveli · Desenvolvimento web e soluções digitais</sub>
 
 </div>
